@@ -1,16 +1,4 @@
-# **<u>Mahesh Ghale, Student ID: 10636371 CMDCrawler Coursework</u>**
-
-**<u>Links</u>**
-
-[GitHub](https://github.com/Plymouth-University/2021-comp1000-proj-ReleaseTimer)
-
-[Video](https://youtu.be/yAPxvpRpLBA)
-
-### Starting Game
-- Double click on Crawler.exe to start game
-- ![image](https://user-images.githubusercontent.com/82466731/150046853-6eed2172-3bcb-45d1-bfdd-4914e1e25cd5.png)
-- You can also, CD into folder and start game by typing ./Crawler.exe
-- ![image](https://user-images.githubusercontent.com/82466731/150046907-44916cfc-6dc9-4337-9d77-22c40074cf1e.png)
+# **<u>CMDCrawler</u>**
 
 ### **<u>Loading game</u>**
 
